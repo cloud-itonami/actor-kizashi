@@ -7,6 +7,6 @@
  :profile/id "actor-kizashi"
  :profile/default? true
  :bot/name "actor-kizashi"
- :bot/brief "etzhayyim/actor-kizashi の常駐 actor。charter に従って行動する。"
- :bot/context-refs [{:kind "repo" :target "etzhayyim/actor-kizashi"}]
+ :bot/brief "cloud-itonami/actor-kizashi の常駐 actor。charter に従って行動する。"
+ :bot/context-refs [{:kind "repo" :target "cloud-itonami/actor-kizashi"}]
  :bot/tools-requested []}
