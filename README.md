@@ -2,7 +2,7 @@
 
 > **ADR-2605312700** · Tier-B · L4 Care Tier (sensing/instrument layer) · R0 scaffold (2026-05-31)
 > DID `did:web:kizashi.etzhayyim.com` · Lexicons `com.etzhayyim.kizashi.*`
-> Canonical repository `etzhayyim/actor-kizashi`
+> Canonical repository `cloud-itonami/actor-kizashi`
 
 The religious-corp's answer to the "futuristic scan pod": step into a
 non-invasive multimodal capture, AI fusion, and receive **early-sign
